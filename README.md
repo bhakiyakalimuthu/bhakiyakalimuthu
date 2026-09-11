@@ -43,16 +43,6 @@ Currently diving deep into **Rust**, already comfortable with **Golang**, and ac
 <p> <a href="https://www.linkedin.com/in/bhakiyaraj-kalimuthu-20605b97" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"> </a> <a href="https://x.com/bhakiyarajk" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter&logoColor=1DA1F2" alt="Twitter/X"> </a> </p>
 
 ---
-### 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/bhakiyakalimuthu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhakiyakalimuthu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhakiyakalimuthu&layout=compact&theme=tokyonight"/>
-  </a>
-</p>
-
----
 
 <!--
 **bhakiyakalimuthu/bhakiyakalimuthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
